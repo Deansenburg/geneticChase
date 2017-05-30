@@ -1,0 +1,3 @@
+[submodule "geneticAnn"]
+	path = geneticAnn
+	url = https://github.com/Deansenburg/geneticAnn
